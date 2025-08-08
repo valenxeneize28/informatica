@@ -1,0 +1,16 @@
+/*Selector de etiquetas*/
+h1 {
+    color:rgb(255, 217, 0);
+}
+h2 {
+    color:blue
+}
+/*Selector de clase*/
+.oscuro{
+    background-color:black;
+    color:white;
+}
+/*Selector ID*/
+#p1{
+    color:green;
+}
